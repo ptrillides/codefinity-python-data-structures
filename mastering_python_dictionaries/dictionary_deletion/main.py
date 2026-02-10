@@ -7,7 +7,7 @@ authors_books = {
 }
 
 # Write your code here
-___
+del authors_books["J.K. Rowling"]
 
 # Testing
 print("Updated dictionary:", authors_books)
